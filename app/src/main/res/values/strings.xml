@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">HelloWorld</string>
-    <string name="timmy_intro">Hello World! I am Timmy. I am a huge Twice fan.</string>
+    <string name="timmy_intro">Hello World! I am Timmy. I am a huge Twice fan.\nClick on the button below and hear them say hello! </string>
     <string name="say_hello">Say hello!</string>
 </resources>

@@ -6,37 +6,45 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <TextView
-        android:id="@+id/introTextView"
-        android:textColor="#fff092b0"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/timmy_intro"
-        android:layout_margin="48dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/TwiceGIFImageView" />
-
     <pl.droidsonroids.gif.GifImageView
-        android:id="@+id/TwiceGIFImageView"
+        android:id="@+id/twiceGIFImageView"
         android:layout_width="360dp"
         android:layout_height="240dp"
         android:layout_margin="48dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:src="@drawable/oneinamillion"
+        android:src="@drawable/twice_hi"
         app:loopCount="0" />
+
+    <TextView
+        android:id="@+id/introTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="48dp"
+        android:text="@string/timmy_intro"
+        android:textColor="#fff092b0"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/twiceGIFImageView" />
 
     <Button
         android:id="@+id/helloButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/say_hello"
-        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/introTextView" />
+
+    <VideoView
+        android:id="@+id/video_view"
+        android:layout_width="360dp"
+        android:layout_height="240dp"
+        android:layout_marginTop="44dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/helloButton" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
