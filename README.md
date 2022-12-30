@@ -2,29 +2,34 @@
 
 Submitted by: **Timmy Susai Rajan**
 
-**HelloWorld** is an android app that shows a GIF and introductory message, and allows pressing a button to display a Toast. 
+**HelloWorld** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **5** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [x] GIF and introductory message displayed on screen
+* [x] Image and introductory message displayed on screen
 * [x] Button displayed on screen
 * [x] Toast with message appears when button is pressed 
+
+The following **optional** features are implemented:
+
+* [x] Along with the toast, the video plays when the button is pushed
+* [x] A GIF is displayed instead of an image
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/0SNdAFncpdUHJZkGel/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/7Z8j7zeyOIE8WyP0Be/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [EZGIF.COM](https://ezgif.com/video-to-gif/).
 
 ## Notes
 
-When the button is pressed, the GIF lags for a bit.
+When the button is pressed, the GIF (maybe video too) lags for a bit.
 
 ## License
 
