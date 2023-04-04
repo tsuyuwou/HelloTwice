@@ -1,8 +1,8 @@
-# Android Prework - *HelloWorld*
+# Android Prework - *HelloTwice*
 
 Submitted by: **Timmy Susai Rajan**
 
-**HelloWorld** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**HelloTwice** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
 Time spent: **10** hours spent in total
 
