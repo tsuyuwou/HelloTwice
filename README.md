@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of the implemented features:
 
-<a href="https://drive.google.com/file/d/1LlgtP8pNutl1UWCP-QWQGYi_JJNB8fvZ/view?usp=sharing" target="_blank"><img src="https://github.com/tsuyuwou/HelloTwice/blob/06f57672671c3520b703fe769a0ab6937eca4a41/HelloTwice.png" alt="Video Walkthrough" width="600"></a>
+<a href="https://drive.google.com/file/d/1LlgtP8pNutl1UWCP-QWQGYi_JJNB8fvZ/view?usp=sharing" target="_blank"><img src="https://github.com/tsuyuwou/HelloTwice/blob/06f57672671c3520b703fe769a0ab6937eca4a41/HelloTwice.png" alt="Video Walkthrough" width="400"></a>
 
 ## License
 
