@@ -21,15 +21,9 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the implemented features:
 
-<img src='https://media.tenor.com/images/accfd416a2f7614ccbd87733580ff902/tenor.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [EZGIF.COM](https://ezgif.com/video-to-gif/).
-
-## Notes
-
-When the button is pressed, the GIF (maybe video too) lags for a bit.
+[![Video Walkthrough](https://github.com/tsuyuwou/HelloTwice/blob/06f57672671c3520b703fe769a0ab6937eca4a41/HelloTwice.png)](https://drive.google.com/file/d/1LlgtP8pNutl1UWCP-QWQGYi_JJNB8fvZ/view?usp=sharing "Video Walkthrough")
 
 ## License
 
